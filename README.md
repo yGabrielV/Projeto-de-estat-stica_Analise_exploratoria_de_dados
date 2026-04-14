@@ -65,7 +65,7 @@ Power Creep: Existe uma tendência estatística de aumento de BST a partir da Ge
 Clone o repositório:
 
 Bash
-git clone https://github.com/seu-usuario/vgc-ultimate-dashboard.git
+git clone https://github.com/yGabrielV/Projeto-de-estat-stica_Analise_exploratoria_de_dados.git
 Instale as dependências:
 
 Bash
