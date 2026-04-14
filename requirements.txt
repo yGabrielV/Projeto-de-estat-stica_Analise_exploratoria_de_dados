@@ -1,0 +1,10 @@
+pandas 
+matplotlib.pyplot   
+seaborn
+scipy.stats
+statsmodels.api 
+sklearn.model_selection 
+sklearn.metrics 
+numpy
+math
+plotly
